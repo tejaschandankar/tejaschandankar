@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschandankar&show_icons=true&locale=en&layout=compact" alt="tejaschandankar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschandankar&show_icons=true&locale=en" alt="tejaschandankar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschandankar&" alt="tejaschandankar" /></p>
